@@ -1,0 +1,8 @@
+David's Personal Zsh Aliases
+
+This is intended to be installed as a custom overwrite to Oh-My-Zsh.
+Details here: https://github.com/ohmyzsh/ohmyzsh?tab=readme-ov-file
+
+This is inspired by (but much lighter than) Mathias Bynen's dotfiles project.
+https://github.com/mathiasbynens/dotfile 
+
